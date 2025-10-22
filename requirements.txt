@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+tqdm
+python-dateutil
+requests
+beautifulsoup4
+selenium
+webdriver-manager
+yt-dlp
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib

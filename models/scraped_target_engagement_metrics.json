@@ -1,0 +1,26 @@
+{
+  "model": "RandomForestRegressor",
+  "n_train": 2814,
+  "n_test": 704,
+  "target": "target_engagement",
+  "train": {
+    "R2": 1.0,
+    "MAE": 0.0,
+    "RMSE": 0.0
+  },
+  "test": {
+    "R2": 1.0,
+    "MAE": 0.0,
+    "RMSE": 0.0
+  },
+  "features_used": [
+    "duration_min",
+    "upload_year",
+    "upload_month",
+    "upload_dow",
+    "upload_hour",
+    "tags_count",
+    "desc_length",
+    "has_links_in_desc"
+  ]
+}

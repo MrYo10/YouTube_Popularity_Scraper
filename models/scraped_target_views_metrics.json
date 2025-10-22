@@ -1,0 +1,26 @@
+{
+  "model": "RandomForestRegressor",
+  "n_train": 2818,
+  "n_test": 705,
+  "target": "target_views",
+  "train": {
+    "R2": -1.7383537804782634e-06,
+    "MAE": 34830101.595904835,
+    "RMSE": 156020572.58649293
+  },
+  "test": {
+    "R2": -8.703460836456678e-05,
+    "MAE": 35978204.256025,
+    "RMSE": 165853825.14258522
+  },
+  "features_used": [
+    "duration_min",
+    "upload_year",
+    "upload_month",
+    "upload_dow",
+    "upload_hour",
+    "tags_count",
+    "desc_length",
+    "has_links_in_desc"
+  ]
+}
